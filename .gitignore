@@ -1,0 +1,5 @@
+# HTML files
+*.html
+
+# ouput folder content
+/output
